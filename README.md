@@ -5,7 +5,7 @@ Layout of a business card website for Spain
 
 ## Илюстрация сайт
 <div align="center">
-  <img src="https://github.com/Razor-Z-Pi/LayoutOfBusinessCardWebsiteForSpain/image/main_title" width="600" height="300"/>
+  <img src="https://github.com/Razor-Z-Pi/LayoutOfBusinessCardWebsiteForSpain/blob/master/image/main_title.png" width="600" height="300"/>
 </div>
 
 ***
