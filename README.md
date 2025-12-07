@@ -18,4 +18,4 @@ Layout of a business card website for Spain
 css/style.css       | Файл каскадной таблицы стилей, в который производится сборка необходимых стилей
 css/normalize.css   | Нормалайзер CSS
 js/script.js        | Скрипт для интерактивности страницы
-index.html          | Индексный файл для отображения страницы поис
+index.html          | Главный файл верстки сайта
